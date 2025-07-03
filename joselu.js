@@ -1,1 +1,0 @@
-let pepelu = 10
