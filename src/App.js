@@ -31,22 +31,22 @@ function App() {
             <Pantalla input={input} />
 
             <div className='fila'>
-                <Boton manejarClic={agregarInput}>1</Boton>
-                <Boton manejarClic={agregarInput}>2</Boton>
-                <Boton manejarClic={agregarInput}>3</Boton>
+                <Boton manejarClic={agregarInput}>100</Boton>
+                <Boton manejarClic={agregarInput}>200</Boton>
+                <Boton manejarClic={agregarInput}>300</Boton>
                 <Boton manejarClic={agregarInput}>+</Boton>
             </div>
             <div className='fila'>
-                <Boton manejarClic={agregarInput}>4</Boton>
-                <Boton manejarClic={agregarInput}>5</Boton>
-                <Boton manejarClic={agregarInput}>6</Boton>
+                <Boton manejarClic={agregarInput}>400</Boton>
+                <Boton manejarClic={agregarInput}>500</Boton>
+                <Boton manejarClic={agregarInput}>600</Boton>
                 <Boton manejarClic={agregarInput}>-</Boton>
             </div>
 
             <div className='fila'>
-                <Boton manejarClic={agregarInput}>7</Boton>
-                <Boton manejarClic={agregarInput}>8</Boton>
-                <Boton manejarClic={agregarInput}>9</Boton>
+                <Boton manejarClic={agregarInput}>700</Boton>
+                <Boton manejarClic={agregarInput}>800</Boton>
+                <Boton manejarClic={agregarInput}>900</Boton>
                 <Boton manejarClic={agregarInput}>*</Boton>
             </div>
 
